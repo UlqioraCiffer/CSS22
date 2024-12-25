@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+}
+
+#logo {
+    width: 173.66px;
+    padding: 13.49px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+nav {
+    margin-left: 220px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+nav a {
+    padding-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.78px;
+    text-decoration: none;
+    color: #323232;
+}
+
+header button {
+    margin-left: 220px;
+    display: inline-block;
+    width: 105px;
+    height: 35px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #00AC25;
+    background-color: #00AC25;
+    color: white;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+
+
+main {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    gap: 24px;
+}
+
+#one {
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 87.14px;
+}
+
+#two {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 16px;
+}
+
+#three {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.56px;
+    margin-top: 40px;
+}
+
+#four {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #6941C6;
+    margin-top: 16px;
+}
+
+#become {
+    display: inline-block;
+    margin-top: 32px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    border: 1px solid #00AC25;
+    background-color: #00AC25;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+span {
+    color: #FF5DA3;
+}
+
+footer {
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 300px;
+    background-color: #6941C6;
+    width: 100%;
+}
+
+#foot {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+footer a {
+    padding-left: 78px;
+    color: white;
+    text-decoration: none;
+    font-weight: 200;
+    text-align: left;
+    text-decoration-skip-ink: none;
+}
